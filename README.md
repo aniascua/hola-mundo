@@ -1,3 +1,3 @@
 # hola-mundo
 Clase 7 - Metodología de la Investigación '22
-# Agregamos un archivo README
+Agregamos un archivo README
